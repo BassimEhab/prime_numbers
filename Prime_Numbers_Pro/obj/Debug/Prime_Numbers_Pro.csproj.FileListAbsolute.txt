@@ -1,0 +1,8 @@
+C:\Users\bassi\OneDrive\Desktop\الجامعة\Prime_Numbers_Pro\Prime_Numbers_Pro\bin\Debug\Prime_Numbers_Pro.exe.config
+C:\Users\bassi\OneDrive\Desktop\الجامعة\Prime_Numbers_Pro\Prime_Numbers_Pro\bin\Debug\Prime_Numbers_Pro.exe
+C:\Users\bassi\OneDrive\Desktop\الجامعة\Prime_Numbers_Pro\Prime_Numbers_Pro\bin\Debug\Prime_Numbers_Pro.pdb
+C:\Users\bassi\OneDrive\Desktop\الجامعة\Prime_Numbers_Pro\Prime_Numbers_Pro\obj\Debug\Prime_Numbers_Pro.csproj.AssemblyReference.cache
+C:\Users\bassi\OneDrive\Desktop\الجامعة\Prime_Numbers_Pro\Prime_Numbers_Pro\obj\Debug\Prime_Numbers_Pro.csproj.SuggestedBindingRedirects.cache
+C:\Users\bassi\OneDrive\Desktop\الجامعة\Prime_Numbers_Pro\Prime_Numbers_Pro\obj\Debug\Prime_Numbers_Pro.csproj.CoreCompileInputs.cache
+C:\Users\bassi\OneDrive\Desktop\الجامعة\Prime_Numbers_Pro\Prime_Numbers_Pro\obj\Debug\Prime_Numbers_Pro.exe
+C:\Users\bassi\OneDrive\Desktop\الجامعة\Prime_Numbers_Pro\Prime_Numbers_Pro\obj\Debug\Prime_Numbers_Pro.pdb
